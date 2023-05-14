@@ -1,1 +1,20 @@
-
+{
+  "user_id": "1",
+  "app_version": "2.1.3",
+  "device": {
+    "name": "iPhone 13 Pro Max",
+    "os_version": "iOS 15.2"
+  },
+  "bug_report": {
+    "severity": "High",
+    "description": "App crashes when trying to open the 'Settings' menu.",
+    "steps_to_reproduce": [
+      "Open the app",
+      "Tap on the 'Settings' menu icon",
+      "App crashes immediately"
+    ],
+    "expected_result": "User should be able to access the 'Settings' menu without the app crashing",
+    "actual_result": "App crashes when trying to open the 'Settings' menu",
+    
+  }
+}
